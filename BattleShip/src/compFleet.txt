@@ -1,0 +1,5 @@
+A B2 B6
+B D8 G8
+C G9 I9
+S I6 I8
+D H4 I4

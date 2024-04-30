@@ -1,0 +1,5 @@
+A D2 D6
+B C7 C10
+C G5 G7
+S F3 F5
+D E6 E7
